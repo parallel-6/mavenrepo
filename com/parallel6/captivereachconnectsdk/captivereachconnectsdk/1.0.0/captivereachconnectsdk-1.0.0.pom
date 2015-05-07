@@ -14,15 +14,27 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>recyclerview-v7</artifactId>
-      <version>21.0.3</version>
+      <groupId>com.squareup.okhttp</groupId>
+      <artifactId>okhttp</artifactId>
+      <version>2.3.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
-      <version>21.0.3</version>
+      <version>22.1.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google.android.gms</groupId>
+      <artifactId>play-services</artifactId>
+      <version>7.3.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>recyclerview-v7</artifactId>
+      <version>22.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -35,12 +47,6 @@
       <groupId>org.apache.httpcomponents</groupId>
       <artifactId>httpclient</artifactId>
       <version>4.3.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.android.gms</groupId>
-      <artifactId>play-services</artifactId>
-      <version>6.5.+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
