@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.sugarorm</groupId>
+  <artifactId>sugar-orm</artifactId>
+  <version>1.2</version>
+  <versioning>
+    <versions>
+      <version>1.2</version>
+    </versions>
+    <lastUpdated>20130925180306</lastUpdated>
+  </versioning>
+</metadata>
