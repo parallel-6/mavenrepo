@@ -8,12 +8,6 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>recyclerview-v7</artifactId>
-      <version>21.0.3</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.parallel6.captivereachconnectsdk</groupId>
       <artifactId>captivereachconnectsdk</artifactId>
       <version>1.0.0</version>
@@ -21,21 +15,27 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>appcompat-v7</artifactId>
-      <version>22.0.0</version>
+      <groupId>com.facebook.fresco</groupId>
+      <artifactId>fresco</artifactId>
+      <version>0.4.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.facebook.fresco</groupId>
-      <artifactId>fresco</artifactId>
-      <version>0.4.0+</version>
+      <groupId>com.android.support</groupId>
+      <artifactId>appcompat-v7</artifactId>
+      <version>22.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services</artifactId>
-      <version>6.5.+</version>
+      <version>7.3.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>recyclerview-v7</artifactId>
+      <version>22.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
